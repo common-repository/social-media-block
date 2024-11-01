@@ -1,0 +1,20 @@
+
+.smbp_social_media_block_share_button_wrapper .smbp-social-media-block-share-button img{
+	padding-right: 10px;
+	height: 32px;
+	margin: 10px 0;
+}
+
+.platform .col-md-6{
+	display: inline-block;
+	width: 50%;
+}
+
+h3{
+	margin-top: 10px !important;
+	margin-bottom: 5px !important;
+	border-bottom: 1px solid #666666;
+}
+.count label{
+	margin-right: 20px;
+}
